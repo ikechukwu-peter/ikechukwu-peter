@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ikechukwu-peter
-- 👀 I’m interested in football
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source Nodejs projects
-- 📫 How to reach me: email: ikechukwupeter1999@gmail.com, twitter: www.twitter.com/pete_iyke
-
 <div align="center">
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
@@ -53,7 +47,7 @@ I'm Ikechukwu Peter , a Backend Software Engineer with 4 years of experience bui
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ikechukwu-peter&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikechukw-peter&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikechukwu-peter&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CurpraCode)
 
