@@ -2,9 +2,9 @@
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**Backend Engineer | Nodejs Developer | Software Engineer**
+**Fullstack Engineer | Nodejs Developer | Software Engineer**
 
-I'm Ikechukwu Peter , a Backend Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work as backend developer, and also freelancing,  picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movies, surfing the internet, and playing games.
+I'm Ikechukwu Peter , a Fullstack Software Engineer with 3 years of experience building innovative solutions for globally distributed teams. I currently work as backend developer, and also freelancing,  picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movies, surfing the internet, and travelling.
 
 **Want to stay in touch? You can find me here:**
 
@@ -19,6 +19,7 @@ I'm Ikechukwu Peter , a Backend Software Engineer with 4 years of experience bui
 
 ## 💻 Technologies I code with
 <p>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-green" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
@@ -27,7 +28,6 @@ I'm Ikechukwu Peter , a Backend Software Engineer with 4 years of experience bui
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
