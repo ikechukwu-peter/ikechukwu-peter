@@ -4,7 +4,7 @@
 
 **Fullstack Engineer | Nodejs Developer | Software Engineer**
 
-I'm Ikechukwu Peter , a Fullstack Software Engineer with 3 years of experience building innovative solutions for globally distributed teams. I currently work as backend developer, and also freelancing,  picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movies, surfing the internet, and travelling.
+I'm Ikechukwu Peter , a Fullstack Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work as backend developer, and also freelancing,  picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movies, surfing the internet, and travelling.
 
 **Want to stay in touch? You can find me here:**
 
