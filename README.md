@@ -2,7 +2,7 @@
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**Fullstack Engineer | Nodejs Developer | Software Engineer**
+**Fullstack Engineer | Nodejs Developer | Reactjs Developer | Software Engineer**
 
 I'm Ikechukwu Peter , a Fullstack Software Engineer with 3 years of experience building innovative solutions for globally distributed teams. I currently work as backend developer, and also freelancing,  picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movies, surfing the internet, and travelling.
 
